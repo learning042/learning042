@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00A99D&center=true&vCenter=true&width=600&lines=Transformando+bugs+em+vit%C3%B3rias;Henshin%21+Code+Mode+ON;Full+Stack+Rider;Sempre+pronto+para+o+pr%C3%B3ximo+desafio)
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=00A99D&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=learning042&color=00A99D&style=flat-square)
 ![Badge](https://img.shields.io/badge/STATUS-HENSHIN%20COMPLETE-00A99D?style=for-the-badge)
 
 </div>
