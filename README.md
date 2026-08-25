@@ -6,7 +6,7 @@
 
 </div>
 
-## 🙋 About Me
+## About Me
 
 - 🌱 Learning programming
 - 💻 Mainly working with **C** and **Python**
