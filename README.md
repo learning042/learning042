@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Thiago Vieira 👋
+# Hi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=learning042&color=blue&style=flat-square)
 
