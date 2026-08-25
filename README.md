@@ -20,10 +20,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learning042&show_icons=true&theme=default&hide_border=true)
-
+ 
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=learning042&show_icons=true&theme=default&hide_border=true&count_private=true)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learning042&layout=compact&theme=default&hide_border=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=learning042&theme=default&hide_border=true)
+ 
+</div>
+
 
 ## 📫 Contact
 
