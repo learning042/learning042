@@ -3,6 +3,8 @@
 # Hi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=learning042&color=blue&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/learning042?style=flat-square&color=blue)](https://github.com/learning042?tab=followers)
+
 
 </div>
 
